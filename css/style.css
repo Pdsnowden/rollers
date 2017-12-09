@@ -1,0 +1,15 @@
+.nav {
+    max-height: 119px;
+}
+
+.navbar {
+    max-height: 59px;
+}
+
+.navbar li {
+    display: inline-block;
+}
+
+.headerLogo {
+    display: inline-flex;
+}
